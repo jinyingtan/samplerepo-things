@@ -2,4 +2,3 @@ circle
 oval
 rectangle
 square
-parallogram
