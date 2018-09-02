@@ -4,3 +4,4 @@ cherries
 tomatoes
 orange
 papaya
+banana
