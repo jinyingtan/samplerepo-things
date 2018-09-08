@@ -8,3 +8,4 @@ blue
 indigo
 violet
 purple
+white
