@@ -9,3 +9,4 @@ indigo
 violet
 purple
 white
+black
