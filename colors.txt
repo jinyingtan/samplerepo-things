@@ -7,8 +7,5 @@ green
 blue
 indigo
 violet
-<<<<<<< HEAD
 maroon
-=======
 purple
->>>>>>> fix1
